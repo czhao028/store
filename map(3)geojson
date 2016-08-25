@@ -1,0 +1,73 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.803889,
+          -77.128333
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "GaugeLID": "ABPV2",
+        "Status": "major",
+        "Location": "Armistead Boothe Park",
+        "Latitude": 38.803889,
+        "Longitude": -77.128333,
+        "Waterbody": "Backlick Run",
+        "State": "V",
+        "Observed": "A0.02",
+        "ObsTime": "2016-08-01 11:55:00",
+        "Units": "ft",
+        "Action": "7.00",
+        "Flood": "9.00",
+        "Moderate": null,
+        "Major": null,
+        "LowThresh": null,
+        "LowThreshU": "ft",
+        "WFO": "lwx",
+        "HDatum": "NAD83/WGS84",
+        "PEDTS": "HGIR",
+        "SecValue": "R-999.00",
+        "SecUnit": "kcfs",
+        "URL": "http://water.weather.gov/ahps2/hydrograph.php?wfo=lwx&gage=abpv2"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.952222,
+          -76.966111
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "GaugeLID": "ACOM2",
+        "Status": "no_flooding",
+        "Location": "Hyattsville",
+        "Latitude": 38.952222,
+        "Longitude": -76.966111,
+        "Waterbody": "Northwest Branch Anacostia River",
+        "State": "M",
+        "Observed": "D1.46",
+        "ObsTime": "2016-08-01 13:30:00",
+        "Units": "ft",
+        "Action": "8.00",
+        "Flood": "9.50",
+        "Moderate": "13.00",
+        "Major": "18.00",
+        "LowThresh": null,
+        "LowThreshU": "ft",
+        "WFO": "lwx",
+        "HDatum": "NAD83/WGS84",
+        "PEDTS": "HGIR",
+        "SecValue": "G0.03",
+        "SecUnit": "kcfs",
+        "URL": "http://water.weather.gov/ahps2/hydrograph.php?wfo=lwx&gage=acom2"
+      }
+    }
+  ]
+}
